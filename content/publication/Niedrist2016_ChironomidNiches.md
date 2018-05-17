@@ -21,37 +21,7 @@ publication = "In *Hydrobiologia*, 781(1):143-160."
 publication_short = "In *Hydrobiologia*"
 
 # Abstract and optional shortened version.
-abstract = "Macroinvertebrates are widely used as
-indicators to detect and assess anthropogenic impacts
-on freshwater ecosystems. However, despite being
-considered useful in indicating effects of environmental
-change in alpine catchments, little is known about
-species preferences for local conditions in such
-environments. In exploring the occurrence of 59 taxa
-within the dipteran family Chironomidae in relation to
-key-environmental variables in alpine and sub-alpine
-streams, we showed that sediment load, water temperature,
-periphyton density, and fine particulate
-organic matter mostly explain assemblage structures.
-Two-way-cluster analyses identified stream-type
-specific assemblages, indicator value analysis defined
-indicator species for glacial and non-glacial streams,
-and weighted averaging regression models confined
-preferences for local environmental conditions by
-summing their optima and tolerance widths regarding
-environmental key factors. The definition of habitat
-requirements identified stenoecious taxa with preferences
-for high and low values of respective variables
-thus identified most suitable indicators for future
-studies. Our work reveals manifold preferences within
-the dominant benthic invertebrate family, underlines
-their enormous potential for monitoring purposes, and
-is a step forward in better understanding ecosystem
-properties and biodiversity. Fundamental requirements
-for these kinds of indicative traits, essential to
-understand cause–effect relationships in environmental
-change issues, are a robust taxonomy and a
-comprehensive set of physical and chemical data."
+abstract = "Macroinvertebrates are widely used as indicators to detect and assess anthropogenic impacts on freshwater ecosystems. However, despite being considered useful in indicating effects of environmental change in alpine catchments, little is known about species preferences for local conditions in such environments. In exploring the occurrence of 59 taxa within the dipteran family Chironomidae in relation to key-environmental variables in alpine and sub-alpine streams, we showed that sediment load, water temperature, periphyton density, and fine particulate organic matter mostly explain assemblage structures. Two-way-cluster analyses identified stream-type specific assemblages, indicator value analysis defined indicator species for glacial and non-glacial streams, and weighted averaging regression models confined preferences for local environmental conditions by summing their optima and tolerance widths regarding environmental key factors. The definition of habitat requirements identified stenoecious taxa with preferences for high and low values of respective variables thus identified most suitable indicators for future studies. Our work reveals manifold preferences within the dominant benthic invertebrate family, underlines their enormous potential for monitoring purposes, and is a step forward in better understanding ecosystem properties and biodiversity. Fundamental requirements for these kinds of indicative traits, essential to understand cause–effect relationships in environmental change issues, are a robust taxonomy and a comprehensive set of physical and chemical data."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
