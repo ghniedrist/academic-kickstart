@@ -231,7 +231,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/ghniedrist"
 
   [[params.social]]
     icon = "google-scholar"
@@ -241,7 +241,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/ghniedrist"
 
 
 # Navigation Links
