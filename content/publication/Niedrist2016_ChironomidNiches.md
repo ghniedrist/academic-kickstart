@@ -1,6 +1,6 @@
 +++
 title = "Towards a definition of environmental niches in alpine streams by employing chironomid species preferences"
-date = 2015-09-01T00:00:00
+date = 2016-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["GH Niedrist", "LF Füreder"]
@@ -17,11 +17,41 @@ authors = ["GH Niedrist", "LF Füreder"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Hydrobiologia*, 781(1):143-160, open access."
+publication = "In *Hydrobiologia*, 781(1):143-160."
 publication_short = "In *Hydrobiologia*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "Macroinvertebrates are widely used as
+indicators to detect and assess anthropogenic impacts
+on freshwater ecosystems. However, despite being
+considered useful in indicating effects of environmental
+change in alpine catchments, little is known about
+species preferences for local conditions in such
+environments. In exploring the occurrence of 59 taxa
+within the dipteran family Chironomidae in relation to
+key-environmental variables in alpine and sub-alpine
+streams, we showed that sediment load, water temperature,
+periphyton density, and fine particulate
+organic matter mostly explain assemblage structures.
+Two-way-cluster analyses identified stream-type
+specific assemblages, indicator value analysis defined
+indicator species for glacial and non-glacial streams,
+and weighted averaging regression models confined
+preferences for local environmental conditions by
+summing their optima and tolerance widths regarding
+environmental key factors. The definition of habitat
+requirements identified stenoecious taxa with preferences
+for high and low values of respective variables
+thus identified most suitable indicators for future
+studies. Our work reveals manifold preferences within
+the dominant benthic invertebrate family, underlines
+their enormous potential for monitoring purposes, and
+is a step forward in better understanding ecosystem
+properties and biodiversity. Fundamental requirements
+for these kinds of indicative traits, essential to
+understand cause–effect relationships in environmental
+change issues, are a robust taxonomy and a
+comprehensive set of physical and chemical data."
 abstract_short = ""
 
 # Featured image thumbnail (optional)

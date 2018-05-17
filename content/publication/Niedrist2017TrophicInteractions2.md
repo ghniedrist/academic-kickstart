@@ -1,6 +1,6 @@
 +++
 title = "Trophic ecology of alpine stream invertebrates: current status and future prospects"
-date = 2015-09-01T00:00:00
+date = 2017-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["GH Niedrist", "LF Füreder"]
@@ -21,7 +21,7 @@ publication = "In *Freshwater Science*, 36(3):466-478."
 publication_short = "In *Freshwater Science*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "Community structures of benthic invertebrates in different alpine stream types have been well documented and modeled against environmental conditions and change. However, community structure cannot be linked directly to community functions or processes, and this problem prevents clear estimation of functional consequences of environmental changes. In this article, we highlight the need to focus research efforts on the trophic ecology of alpine streams for several reasons. 1) The trophic ecology of invertebrates is remarkably understudied in the field of alpine stream ecology (only 7% of published studies), but the trophic ecology of invertebrates underlies crucial functions in these ecosystems. 2) Classifications of species into functional feeding groups, traits often used to express the functionality of invertebrate communities, are missing for several alpine species or have been deduced from classifications based on higher taxonomic levels. 3) Most investigators focused on a few trophic levels, whereas use of new analytical methods, such as Bayesian stable-isotope mixing models could provide statistically sophisticated estimations of multiple food-source contributions to consumers’ diets. 4) Out-dated ideas need to be revised; e.g., we demonstrate that Diamesa species can actively select their food, which is against the established assumption that animals in harsh environments are forced to feed on everything they can get. Based on literature studies, we summarized most critical research needs on the trophic ecology of alpine stream invertebrates. Our goal is to promote ways to understand the ecological function of alpine stream invertebrates and the potential effects of alteration of their trophic relationships by ongoing environmental changes like glacier retreat, water exploitation, or immigration of invasive species."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
