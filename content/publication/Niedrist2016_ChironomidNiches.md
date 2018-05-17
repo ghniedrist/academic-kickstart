@@ -1,0 +1,63 @@
++++
+title = "Towards a definition of environmental niches in alpine streams by employing chironomid species preferences"
+date = 2015-09-01T00:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["GH Niedrist", "LF Füreder"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "In *Hydrobiologia*, 781(1):143-160, open access."
+publication_short = "In *Hydrobiologia*"
+
+# Abstract and optional shortened version.
+abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+projects = ["Ecology-of-alpine-streams"]
+
+# Links (optional).
+url_pdf = "https://link.springer.com/content/pdf/10.1007%2Fs10750-016-2836-1.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = "https://www.researchgate.net/publication/303601234_Towards_a_definition_of_environmental_niches_in_alpine_streams_by_employing_chironomid_species_preferences"
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
+
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
