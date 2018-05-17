@@ -243,6 +243,16 @@ enableGitInfo = false
 #    icon_pack = "fa"
 #    link = "//github.com/ghniedrist"
 
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Georg_Niedrist"
+    
+  [[params.social]]
+    icon = "impactstory"
+    icon_pack = "ai"
+    link = "https://www.uibk.ac.at/ecology/staff/persons/niedrist.html.en"
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
