@@ -19,17 +19,23 @@ weight = 5
 [[education.courses]]
   course = "PhD in Ecology"
   institution = "University of Innsbruck"
+  year = 2017
+
+[[education.courses]]
+  course = "Master in Ecology and Biodiversity"
+  institution = "University of Innsbruck"
+  year = 2014
+  
+[[education.courses]]
+  course = "Research stay"
+  institution = "CSIC Barcelona"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biology"
+  institution = "University of Innsbruck"
+  year = 2010
+ 
  
 +++
 
