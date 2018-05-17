@@ -17,7 +17,7 @@ authors = ["GH Niedrist", "LF Füreder"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Freshwater Science*, IEEE."
+publication = "In *Freshwater Science*, 36(3):466-478."
 publication_short = "In *Freshwater Science*"
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = false
 projects = ["Ecology-of-alpine-streams"]
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://www.journals.uchicago.edu/doi/pdfplus/10.1086/692831"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.researchgate.net/publication/317149137_Trophic_ecology_of_alpine_stream_invertebrates_Current_status_and_future_research_needs"
 
 # Does the content use math formatting?
 math = true
