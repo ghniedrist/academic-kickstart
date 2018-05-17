@@ -3,7 +3,7 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Alpine streams"
+title = "Ecology of alpine streams"
 
 # Project summary to display on homepage.
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alpine-streams"]
+tags = ["Alpine streams", "Chironomidae", "Functional Ecology"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
