@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Limnology",
     "Trophic interactions",
-    "Ecosystem services"
+    "Ecosystem services",
+    "Environmental pollution"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -41,5 +42,6 @@ weight = 5
 
 # Biography
 
-Georg Niedrist is a PostDoc at the Institute of Ecology of University of Innsbruck.  
-# ~~Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology # group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.~~ 
+Georg Niedrist is a PostDoc at the Institute of Ecology of University of Innsbruck.
+As a limnologist, his research focuses on the trophic ecology of aquatic inhabitants, on environmental pollution of aquatic ecosystems, and on physical and ecological alterations due to climate change and other anthropogenic activities in alpine streams and lakes. 
+
