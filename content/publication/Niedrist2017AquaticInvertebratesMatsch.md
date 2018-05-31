@@ -17,8 +17,8 @@ authors = ["GH Niedrist", "R Alber", "A Scotti","H Rauch","S Vorhauser","T Kieba
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Freshwater Science*, 36(3):466-478."
-publication_short = "In *Freshwater Science*"
+publication = "In *Gredleriana*, 17:129-140."
+publication_short = "In *Gredleriana*"
 
 # Abstract and optional shortened version.
 abstract = "Amongst other ecosystems threatened by climate change effects, living conditions in alpine streams in glaciated basins experience considerable changes as glaciers retreat, leading to changing structures of invertebrate populations inhabiting the riverbed. Community structures are monitored in Matsch Valley since 2014, but the species pool and population structures along the progression of the main Saldur stream and its non-glacial tributaries are not yet known. Moreover, most accurate and sensitive biotic metrics for the detection of long-term changes within benthic communities are not yet chosen. Here, we qualitatively analyze benthic communities from glacial and non-glacial reaches in the Matsch Valley along an altitudinal gradient (2252 to 980 m a.s.l.) and thereby provide a fundamental basis for the ongoing long-term monitoring of the Saldur stream. We show that the absolute number of chironomid taxa is higher at elevated stream reaches and that chironomids account for the majority of taxa in glacial streams, but are underrepresented in non-glacial tributaries. We emphasize that the ratio of chironomid taxa (or the subfamily Diamesinae, known to be adapted to ‘glacial’ conditions) compared to all present taxa might be a good indicator for environmental change related to glacial retreat and its effects on benthic communities in alpine streams."
