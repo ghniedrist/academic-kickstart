@@ -42,4 +42,4 @@ weight = 5
 # Biography
 
 Georg Niedrist is a PostDoc at the Institute of Ecology of University of Innsbruck.  
-#~~Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology # group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.~~ 
+# ~~Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology # group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.~~ 
