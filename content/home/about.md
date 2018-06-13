@@ -21,6 +21,11 @@ weight = 5
   course = "PhD in Ecology"
   institution = "University of Innsbruck"
   year = 2017
+  
+[[education.courses]]
+  course = "Foundation of Consultant office for Biology"
+  institution = "Biotop"
+  year = 2017 
 
 [[education.courses]]
   course = "Master in Ecology and Biodiversity"
