@@ -47,6 +47,6 @@ weight = 5
 
 # Biography
 
-Georg Niedrist is a PostDoc at the Institute of Ecology of University of Innsbruck.
+Georg H. Niedrist is a PostDoc at the Institute of Ecology of University of Innsbruck.
 As a limnologist, his research focuses on the trophic ecology of aquatic inhabitants, on environmental pollution of aquatic ecosystems, and on physical and ecological alterations due to climate change and other anthropogenic manipulations in mountain streams and lakes. 
 
