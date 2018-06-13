@@ -23,8 +23,8 @@ weight = 5
   year = 2017
   
 [[education.courses]]
-  course = "Foundation of Consultant office for Biology"
-  institution = "Biotop"
+  course = "Foundation of consulant office"
+  institution = "Biotop, Engineering office for biology "
   year = 2017 
 
 [[education.courses]]
