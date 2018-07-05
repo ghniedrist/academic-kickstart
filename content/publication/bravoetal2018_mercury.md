@@ -1,9 +1,9 @@
 +++
-title = "When the going gets tough, the tough get going: The enigma of survival strategies in harsh glacial stream environments"
-date = 2018-05-14T00:00:00
+title = "The interplay between total mercury, methylmercury and dissolved organic matter in fluvial systems: A latitudinal study across Europe"
+date = 2018-06-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GH Niedrist", "LF Füreder"]
+authors = ["AG Bravo", "DN Kothawala", "K Attermeyer", "E Tessier", "P Bodmer", "JLJ Ledesma", "J Audet", "JP Casas-Ruiz", "N Catalán", "S Cauvy-Fraunié", "M Colls", "A Deininger", "VV Evtimova", "JA Fonvielle", "T Fuß", "P Gilbert", "SH Ortega", "L Liu", "C Mendoza-Lera", "J Monteiro", "JR Mor", "M Nagler", "GH Niedrist", "AC Nydahl", "A Pastor", "J Pegg", "CG Roberts", "F Pilotto", "AP Portela", "CR Gonzáles-Quijano", "F Romero", "M Rulik", "D Amouroux"]
 
 # Publication type.
 # Legend:
@@ -17,15 +17,15 @@ authors = ["GH Niedrist", "LF Füreder"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Freshwater Biology*, 0:0-0."
-publication_short = "In *Freshwater Biology*"
+publication = "In *Water Research*, in press."
+publication_short = "In *Water Research*"
 
 # Abstract and optional shortened version.
-abstract = "Glacier retreat is a key component of environmental change in alpine environments, leading to significant changes in physico-chemical characteristics and biological communities in glacier-fed rivers. While the overall effects of the environment on community structure of invertebrates are largely understood, its influence on functional strategies such as feeding habits of same species are not. The aquatic larvae of the species-rich family Chironomidae, or nonbiting midges, are the first invertebrates colonizing alpine headwaters, and the first macroinvertebrate consumers in these harsh environments. Species composition in the two subfamilies, Diamesinae and Orthocladiinae, is diverse and strongly affected by the changing habitat conditions upon glacier retreat. Here we show that Diamesinae have extremely flexible feeding strategies that explain their abundance, high body-mass, and predominance in glacier-fed streams. Along a multifactorial ecological gradient from benign to harsh, based on water temperature, sediment transport and degree of glacial influence, Diamesinae expanded their trophic niche area and covered more trophic levels when conditions harshened. In contrast, niche areas of Orthocladiinae remained small and were not related to this gradient. In Diamesinae, mean body-mass increased with harsher environmental conditions, but no such effects were found in Orthocladiinae. As facultative predators and able to feed on diverse food sources, Diamesinae have evolved survival mechanisms that allow them to thrive and successfully reproduce in glacier-fed streams, which likely explains their predominance in these habitats. Climate change-induced glacier retreat affects the global water balance, with many downstream effects, including on irrigation and domestic use, and our study deepens our understanding of its effects on animals that depend on glacier-melt."
-abstract_short = ""
+abstract = "Large-scale studies are needed to identify the drivers of total mercury (THg) and monomethyl-mercury (MeHg) concentrations in aquatic ecosystems. Studies attempting to link dissolved organic matter (DOM) to levels of THg or MeHg are few and geographically constrained. Additionally, stream and river systems have been understudied as compared to lakes. Hence, the aim of the study was to examine the influence of DOM concentration and composition, morphological descriptors, land uses and water chemistry on THg and MeHg concentrations and the percentage of THg as MeHg (%MeHg) in 29 streams across Europe spanning from 41°N to 64 °N. THg concentrations (0.06–2.78 ng L−1) were highest in streams characterized by DOM with a high terrestrial soil signature and low nutrient content. MeHg concentrations (78–160 pg L−1) varied non-systematically across systems. Relationships between DOM bulk characteristics and THg and MeHg suggest that while soil derived DOM inputs control THg concentrations, autochthonous DOM (aquatically produced) and the availability of electron acceptors for Hg methylating microorganisms (e.g. sulfate) drive %MeHg and potentially MeHg concentration. Overall, these results highlight the large spatial variability in THg and MeHg concentrations at European scale, and underscore the importance of DOM composition on Hg cycling in fluvial systems."
+abstract_short = "Stream total-Hg and MeHg concentrations across European latitudinal gradient are highly variable. Soil derived organic matter inputs control total-Hg in European streams. Autochthonous organic matter controls MeHg formation in European streams"
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "bravo1.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -33,10 +33,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["Ecology-of-alpine-streams"]
+projects = ["EuroRun-EuroMethane.md"]
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13131"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.researchgate.net/publication/326119254_When_the_going_gets_tough_the_tough_get_going_The_enigma_of_survival_strategies_in_harsh_glacial_stream_environments"
+url_source = "https://www.researchgate.net/publication/326072413_The_interplay_between_total_mercury_methylmercury_and_dissolved_organic_matter_in_fluvial_systems_A_latitudinal_study_across_Europe"
 
 # Does the content use math formatting?
 math = true
@@ -53,9 +53,9 @@ math = true
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "bravo1.jpg"`.
 [header]
-image = "FeedingChir_gr.jpg"
+image = "bravo1.jpg"
 caption = ""
 
 +++
