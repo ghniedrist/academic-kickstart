@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-06-01T00:00:00
 
 # Project title.
-title = "Ecology of alpine streams"
+title = "EuroRun and Co."
 
 # Project summary to display on homepage.
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "AlpStream.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alpine streams", "Chironomidae", "Functional Ecology"]
+tags = ["CO2", "Mercury", "Methane","FreshProject"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

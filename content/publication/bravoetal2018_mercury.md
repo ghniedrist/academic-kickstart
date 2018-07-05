@@ -1,6 +1,6 @@
 +++
 title = "The interplay between total mercury, methylmercury and dissolved organic matter in fluvial systems: A latitudinal study across Europe"
-date = 2018-06-14T00:00:00
+date = 2018-06-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["AG Bravo", "DN Kothawala", "K Attermeyer", "E Tessier", "P Bodmer", "JLJ Ledesma", "J Audet", "JP Casas-Ruiz", "N Catalán", "S Cauvy-Fraunié", "M Colls", "A Deininger", "VV Evtimova", "JA Fonvielle", "T Fuß", "P Gilbert", "SH Ortega", "L Liu", "C Mendoza-Lera", "J Monteiro", "JR Mor", "M Nagler", "GH Niedrist", "AC Nydahl", "A Pastor", "J Pegg", "CG Roberts", "F Pilotto", "AP Portela", "CR Gonzáles-Quijano", "F Romero", "M Rulik", "D Amouroux"]
