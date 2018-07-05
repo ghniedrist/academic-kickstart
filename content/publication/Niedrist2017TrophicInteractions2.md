@@ -3,7 +3,7 @@ title = "Trophic ecology of alpine stream invertebrates: current status and futu
 date = 2017-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GH Niedrist", "LF Füreder"]
+authors = ["**GH Niedrist**", "LF Füreder"]
 
 # Publication type.
 # Legend:

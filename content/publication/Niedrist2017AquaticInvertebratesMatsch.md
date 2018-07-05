@@ -3,7 +3,7 @@ title = "Aquatic invertebrates along the progression of glacial and non-glacial 
 date = 2017-12-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GH Niedrist", "R Alber", "A Scotti","H Rauch","S Vorhauser","T Kiebacher","R Bottarin"]
+authors = ["**GH Niedrist**", "R Alber", "A Scotti","H Rauch","S Vorhauser","T Kiebacher","R Bottarin"]
 
 # Publication type.
 # Legend:

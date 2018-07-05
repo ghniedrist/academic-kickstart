@@ -3,7 +3,7 @@ title = "Towards a definition of environmental niches in alpine streams by emplo
 date = 2016-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GH Niedrist", "LF Füreder"]
+authors = ["**GH Niedrist**", "LF Füreder"]
 
 # Publication type.
 # Legend:
