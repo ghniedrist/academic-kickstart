@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "AlpStream2.jpg"
+image = "AlpStream3.jpg"
 caption = "Schlatenbach, Austria"
 
 +++
