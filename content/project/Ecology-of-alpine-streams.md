@@ -6,10 +6,10 @@ date = 2016-04-27T00:00:00
 title = "Ecology of alpine streams"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "AlpStream.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "AlpStream.jpg"
-caption = "My caption :smile:"
+image = "AlpStream2.jpg"
+caption = "Schlatenbach, Austria"
 
 +++
 
