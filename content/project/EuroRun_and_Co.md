@@ -9,7 +9,7 @@ title = "EuroRun and Co."
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "EuroRun.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "Schlatenbach, Austria"
+caption = ""
 
 +++
 
