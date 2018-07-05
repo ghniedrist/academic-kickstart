@@ -25,8 +25,7 @@ abstract = "1.	Glacier retreat is a key component of environmental change in alp
 2.	The aquatic larvae of the species-rich family Chironomidae, or nonbiting midges, are the first invertebrates colonizing alpine headwaters, and the first macroinvertebrate consumers in these harsh environments. Species composition in the two subfamilies, Diamesinae and Orthocladiinae, is diverse and strongly affected by the changing habitat conditions upon glacier retreat. Here we show that Diamesinae have extremely flexible feeding strategies that explain their abundance, high body-mass, and predominance in glacier-fed streams. 
 3.	Along a multifactorial ecological gradient from benign to harsh, based on water temperature, sediment transport and degree of glacial influence, Diamesinae expanded their trophic niche area and covered more trophic levels when conditions harshened. In contrast, niche areas of Orthocladiinae remained small and were not related to this gradient. In Diamesinae, mean body-mass increased with harsher environmental conditions, but no such effects were found in Orthocladiinae. 
 4.	As facultative predators and able to feed on diverse food sources, Diamesinae have evolved survival mechanisms that allow them to thrive and successfully reproduce in glacier-fed streams, which likely explains their predominance in these habitats. 
-5.	Climate change-induced glacier retreat affects the global water balance, with many downstream effects, including on irrigation and domestic use, and our study deepens our understanding of its effects on animals that depend on glacier-melt.
-"
+5.	Climate change-induced glacier retreat affects the global water balance, with many downstream effects, including on irrigation and domestic use, and our study deepens our understanding of its effects on animals that depend on glacier-melt."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
