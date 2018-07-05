@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["CO2", "Mercury", "Methane","FreshProject"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://freshproject-eurorun.jimdo.com/eurorun/project-eurorun/"
 
 # Does the project detail page use math formatting?
 math = false
