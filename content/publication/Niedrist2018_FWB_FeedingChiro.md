@@ -3,7 +3,7 @@ title = "When the going gets tough, the tough get going: The enigma of survival 
 date = 2018-05-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**GH Niedrist**", "LF FÃ¼reder"]
+authors = ["**GH Niedrist**", "LF Füreder"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication_short = "In *Freshwater Biology*"
 
 # Abstract and optional shortened version.
 abstract = "Glacier retreat is a key component of environmental change in alpine environments, leading to significant changes in physico-chemical characteristics and biological communities in glacier-fed rivers. While the overall effects of the environment on community structure of invertebrates are largely understood, its influence on functional strategies such as feeding habits of same species are not. The aquatic larvae of the species-rich family Chironomidae, or nonbiting midges, are the first invertebrates colonizing alpine headwaters, and the first macroinvertebrate consumers in these harsh environments. Species composition in the two subfamilies, Diamesinae and Orthocladiinae, is diverse and strongly affected by the changing habitat conditions upon glacier retreat. Here we show that Diamesinae have extremely flexible feeding strategies that explain their abundance, high body-mass, and predominance in glacier-fed streams. Along a multifactorial ecological gradient from benign to harsh, based on water temperature, sediment transport and degree of glacial influence, Diamesinae expanded their trophic niche area and covered more trophic levels when conditions harshened. In contrast, niche areas of Orthocladiinae remained small and were not related to this gradient. In Diamesinae, mean body-mass increased with harsher environmental conditions, but no such effects were found in Orthocladiinae. As facultative predators and able to feed on diverse food sources, Diamesinae have evolved survival mechanisms that allow them to thrive and successfully reproduce in glacier-fed streams, which likely explains their predominance in these habitats. Climate change-induced glacier retreat affects the global water balance, with many downstream effects, including on irrigation and domestic use, and our study deepens our understanding of its effects on animals that depend on glacier-melt."
-abstract_short = ""
+abstract_short = "Here we show that Diamesinae - in contrast to Orthocladiinae - (both subfamilies of Chironomidae) have extremely flexible feeding strategies that explain their abundance, high body-mass, and predominance in glacier-fed streams."
 
 # Featured image thumbnail (optional)
 image_preview = ""
