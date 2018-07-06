@@ -3,7 +3,7 @@ title = "When the going gets tough, the tough get going: The enigma of survival 
 date = 2018-05-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**GH Niedrist**", "LF Füreder"]
+authors = ["**GH Niedrist**", "LF FÃ¼reder"]
 
 # Publication type.
 # Legend:
