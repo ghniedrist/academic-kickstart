@@ -16,7 +16,7 @@ image_preview = "EuroRun.jpg"
 tags = ["CO2", "Mercury", "Methane","FreshProject"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://freshproject-eurorun.jimdo.com/eurorun/project-eurorun/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -31,6 +31,8 @@ caption = ""
 **EuroRun**
 
 EuroRun represents the 1st Collaborative European Freshwater Science Project for Young Researchers ("FreshProject"). The Project is meant to create synergistic interactions among young and early career scientists across Europe. The Project was selected from a call by the European Federation of Freshwater Sciences (EFFS) board, the European Fresh and Young Researchers (EFYR) and representatives of the Fresh Blood for Fresh Water (FBFW) meetings.
+
+https://freshproject-eurorun.jimdo.com/eurorun/project-eurorun/
 
 
 
