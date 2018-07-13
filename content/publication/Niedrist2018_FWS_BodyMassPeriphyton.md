@@ -1,6 +1,6 @@
 +++
 title = "Environmental harshness mediates the quality of periphyton and chironomid body mass in alpine streams"
-date = 2018-09-01T00:00:00
+date = 2018-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**GH Niedrist**", "Marco Cantonati", "LF Füreder"]
