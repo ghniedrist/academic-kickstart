@@ -1,9 +1,9 @@
 +++
-title = "When the going gets tough, the tough get going: The enigma of survival strategies in harsh glacial stream environments"
-date = 2018-05-14T00:00:00
+title = "Environmental harshness mediates the quality of periphyton and chironomid body mass in alpine streams"
+date = 2018-09-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**GH Niedrist**", "LF Füreder"]
+authors = ["**GH Niedrist**", "Marco Cantonati", "LF Füreder"]
 
 # Publication type.
 # Legend:
@@ -17,15 +17,15 @@ authors = ["**GH Niedrist**", "LF Füreder"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Freshwater Biology*, 0:0-0."
-publication_short = "In *Freshwater Biology*"
+publication = "In *Freshwater Science*, 0:0-0."
+publication_short = "In *Freshwater Science*"
 
 # Abstract and optional shortened version.
-abstract = "Glacier retreat is a key component of environmental change in alpine environments, leading to significant changes in physico-chemical characteristics and biological communities in glacier-fed rivers. While the overall effects of the environment on community structure of invertebrates are largely understood, its influence on functional strategies such as feeding habits of same species are not. The aquatic larvae of the species-rich family Chironomidae, or nonbiting midges, are the first invertebrates colonizing alpine headwaters, and the first macroinvertebrate consumers in these harsh environments. Species composition in the two subfamilies, Diamesinae and Orthocladiinae, is diverse and strongly affected by the changing habitat conditions upon glacier retreat. Here we show that Diamesinae have extremely flexible feeding strategies that explain their abundance, high body-mass, and predominance in glacier-fed streams. Along a multifactorial ecological gradient from benign to harsh, based on water temperature, sediment transport and degree of glacial influence, Diamesinae expanded their trophic niche area and covered more trophic levels when conditions harshened. In contrast, niche areas of Orthocladiinae remained small and were not related to this gradient. In Diamesinae, mean body-mass increased with harsher environmental conditions, but no such effects were found in Orthocladiinae. As facultative predators and able to feed on diverse food sources, Diamesinae have evolved survival mechanisms that allow them to thrive and successfully reproduce in glacier-fed streams, which likely explains their predominance in these habitats. Climate change-induced glacier retreat affects the global water balance, with many downstream effects, including on irrigation and domestic use, and our study deepens our understanding of its effects on animals that depend on glacier-melt."
-abstract_short = "Here we show that Diamesinae - in contrast to Orthocladiinae - (both subfamilies of Chironomidae) have extremely flexible feeding strategies that explain their abundance, high body-mass, and predominance in glacier-fed streams."
+abstract = "Glacier retreat alters physical and chemical characteristics and biological communities of glacier-fed streams. Functional relationships, including effects of different food-source qualities on the density and biomass of primary consumers, are insufficiently known in alpine and subalpine headwaters. We measured: 1) the relative abundance of diatoms 1 chrysophytes, green algae, and cyanobacteria in the periphyton and assemblage patterns of the 2 dominant chironomid subfamilies, Diamesinae and Orthocladiinae, and 2) differences in chironomid body mass as an unexpected response to living conditions in harsh alpine stream ecosystems. Diatoms + chrysophytes dominated in harsh environments, and cyanobacteria were abundant in more benign streams. Patterns in algal dominance corresponded to differences in individual body mass of Diamesinae and Orthocladiinae among streams. Body mass of glacial-river specialists Diamesa steinboecki and Diamesa latitarsis gr. was higher in harsh than in benign streams,
+but other Diamesinae and Orthocladiinae biomass did not differ between harsh or less harsh conditions. Plausible explanations include higher nutritional quality of algal classes in periphyton and less competition for specialists in harsh than in benign streams. Our results indicate that harsh environmental conditions, such as low temperatures and high turbidity, lead to lower taxon numbers and food quality and that food quality influences invertebrate occurrence and body mass in alpine and subalpine headwater streams. Closely related species respond differently to specific environmental conditions and may perform differing functions. This result widens our general understanding of climatechange effects on alpine streamecosystems and provides additional explanations for species abilities and performance."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "Niedrist2018_BodyMass.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -36,7 +36,7 @@ selected = true
 projects = ["Ecology-of-alpine-streams"]
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/fwb.13131"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.researchgate.net/publication/326119254_When_the_going_gets_tough_the_tough_get_going_The_enigma_of_survival_strategies_in_harsh_glacial_stream_environments"
+url_source = "https://www.researchgate.net/publication/326331343_Environmental_harshness_mediates_the_quality_of_periphyton_and_chironomid_body_mass_in_alpine_streams"
 
 # Does the content use math formatting?
 math = true
@@ -55,7 +55,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "FeedingChir_gr.jpg"
+image = ""
 caption = ""
 
 +++
